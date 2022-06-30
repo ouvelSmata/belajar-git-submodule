@@ -1,0 +1,3 @@
+const isRelease = () => {
+  return true;
+}
